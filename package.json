@@ -1,0 +1,23 @@
+{
+  "name": "7_lab_mongoose_23it252",
+  "version": "1.0.0",
+  "description": "Lab 7 - Mongoose 101 - Thao 23IT252",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "promise": "node index.js promise",
+    "async": "node index.js async",
+    "unique": "node index.js unique"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "lab"
+  ],
+  "author": "Thao - 23IT252",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.5"
+  }
+}
